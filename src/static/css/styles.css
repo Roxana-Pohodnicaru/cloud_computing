@@ -1,11 +1,11 @@
 body {
-    background-color: #ADD8E6;
+    background-color: #F0E68C;
     margin-top: 50px;
     font-family: 'Serif';
 }
 
 .item {
-    background-color: #000080;
+    background-color: #FFA07A;
     padding: 15px;
     margin-bottom: 15px;
     border: transparent;
@@ -23,7 +23,7 @@ body {
 }
 
 .toggles {
-    color: black;
+    color: #008B8B;
 }
 
 .name {
@@ -36,4 +36,6 @@ body {
 
 button:focus {
     border: 1px solid #333;
+    background-color: #008B8B;
+    color: white;
 }
